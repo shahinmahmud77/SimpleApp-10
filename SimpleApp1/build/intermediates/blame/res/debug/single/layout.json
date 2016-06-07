@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/shahinmahmud/AndroidStudioProjects/SimpleApp-11/SimpleApp1/build/intermediates/res/merged/debug/layout/activity_last.xml",
+        "source": "/Users/shahinmahmud/AndroidStudioProjects/SimpleApp-11/SimpleApp1/src/main/res/layout/activity_last.xml"
+    },
+    {
+        "merged": "/Users/shahinmahmud/AndroidStudioProjects/SimpleApp-11/SimpleApp1/build/intermediates/res/merged/debug/layout/activity_first.xml",
+        "source": "/Users/shahinmahmud/AndroidStudioProjects/SimpleApp-11/SimpleApp1/src/main/res/layout/activity_first.xml"
+    }
+]
